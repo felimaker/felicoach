@@ -1,6 +1,6 @@
 <?php
-	$to = "19.malyarchuk.97@gmail.com";
-	$tema = "Baha";
+	$to = "felicoach@gmail.com";
+	$tema = "Contacto web Felicoach.com";
 	$message = "Name: ".$_POST['name']."<br>";
 	$message .= "Email: ".$_POST['email']."<br>";
 	$message .= "Message: ".$_POST['note']."<br>";
